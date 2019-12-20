@@ -1,0 +1,62 @@
+﻿  stdafx.cpp
+  new_new1.cpp
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\header.h(250): warning C4091: '': ignored on left of 'void *' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\header.h(261): warning C4005: 'DISSECTOR_ASSERT': macro redefinition
+  c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\header.h(222): note: see previous definition of 'DISSECTOR_ASSERT'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\header.h(270): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\header.h(270): warning C4091: '': ignored on left of 'bool' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\header.h(783): warning C4091: 'typedef ': ignored on left of 'SS7_target' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(283): warning C4101: 'sibling': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(284): warning C4101: 'tfi': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(283): warning C4101: 'tnode': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(597): warning C4018: '<=': signed/unsigned mismatch
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(609): warning C4101: 'eiinfo': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(621): warning C4101: 'subset_tvb_offset': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(622): warning C4101: 'subset_tvb_length': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(1251): warning C4101: 'gt_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(1252): warning C4101: 'gt_tree': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(1728): warning C4101: 'lr_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(1749): warning C4101: 'lr_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2015): warning C4101: 'param_tree': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2014): warning C4101: 'param_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2072): warning C4101: 'param_tree': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2071): warning C4101: 'param_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2126): warning C4101: 'saved_proto': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2127): warning C4101: 'saved_can_desegment': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2257): warning C4101: 'saved_match_uint': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2374): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2319): warning C4101: 'saved_proto': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2322): warning C4101: 'saved_can_desegment': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2718): warning C4101: 'pi': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(2795): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(3472): warning C4002: too many actual parameters for macro 'g_slice_new'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(3806): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(3817): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(3833): warning C4101: 'reass_key': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(3975): warning C4101: 'frag_tree_item': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4296): warning C4800: 'guint8': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4181): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4207): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4225): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4247): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4261): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4323): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4339): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4386): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4420): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4438): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4450): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4467): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4483): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4498): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4521): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4616): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4710): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4740): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'const char *'
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4078): warning C4101: 'save_fragmented': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4076): warning C4101: 'hf_var': unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(4816): warning C4101: 'mtp3_addr_p': unreferenced local variable
+  Generating Code...
+c:\users\vostro 3568\documents\visual studio 2015\projects\new_new1\new_new1\new_new1.cpp(1447): warning C4715: 'dissector_handle_get_short_name': not all control paths return a value
+  new_new1.vcxproj -> c:\users\vostro 3568\documents\visual studio 2015\Projects\new_new1\Debug\new_new1.exe
+  new_new1.vcxproj -> c:\users\vostro 3568\documents\visual studio 2015\Projects\new_new1\Debug\new_new1.pdb (Full PDB)
